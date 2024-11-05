@@ -2,7 +2,8 @@
 *The code is for EMNLP 2024 paper: [Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights](https://arxiv.org/abs/2406.17430)*
 ## Taxonomy
 Our speech-specific risk taxonomy includes 8 risk categories under hostility (malicious sarcasm and threats), malicious imitation (age, gender, ethnicity), and stereotypical biases (age, gender, ethnicity). 
-<br>
+
+
 <div align="center">
 <img src="https://github.com/YangHao97/speech_specific_risk/blob/main/resources/taxonomy.png" width="50%">
 </div>
