@@ -16,7 +16,7 @@ Due to the safeguards and limitation of existing TTS system, we generate synthet
 <img src="https://github.com/YangHao97/speech_specific_risk/blob/main/resources/statistics.png" width="50%">
 </div>
 
-## Prompting strategies
+## Prompting Strategies
 We adopt Yes/No question and Multi-choice question as prompts, detailed in Table 9 of our paper.
 ## Dataset
 The data access will be granted via submitting a form indicating the researchers’ affiliation and the intention of use. [Access the dataset](https://docs.google.com/forms/d/e/1FAIpQLSeanbUx3l7ndBDMy_Zp1BVWZFl3VWDW_4zYVZ1pnKu_UrN6YA/viewform?usp=sf_link)
