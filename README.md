@@ -18,6 +18,8 @@ Due to the safeguards and limitation of existing TTS system, we generate synthet
 
 ## Prompting Strategies
 We adopt Yes/No question and Multi-choice question as prompts, detailed in Table 9 of our paper.
+## Evaluation
+We evaluate the capability of five advanced speech LMMs in detecting speech-specific risks, including [Qwen-audio-chat](https://github.com/QwenLM/Qwen-Audio), [SALMONN-7B/13B](https://github.com/bytedance/SALMONN), [WavLLM](https://github.com/microsoft/SpeechT5/tree/main/WavLLM), and [Gemini-1.5-Pro](https://gemini.google.com/). Please deploy models/APIs based on the corresponding offical instructions.
 ## Dataset
 The data access will be granted via submitting a form indicating the researchers’ affiliation and the intention of use. [Access the dataset](https://docs.google.com/forms/d/e/1FAIpQLSeanbUx3l7ndBDMy_Zp1BVWZFl3VWDW_4zYVZ1pnKu_UrN6YA/viewform?usp=sf_link)
 ## Citation
